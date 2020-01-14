@@ -1,0 +1,51 @@
+h1 {
+    /* margin-top: 30px;
+    margin-left: 15px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+    margin: 30px 10px 30px 15px;
+     width: 300px;
+    margin: auto;  
+      padding: 20px;
+    border: 1px solid;
+    width: 300px;  
+    margin-left: 20px; 
+   margin: 25px;  */
+   margin: 50px 25px;
+  width: 500px;
+  color: blue;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 40px;
+  font-style: oblique;
+  font-weight: 700;
+}
+p {
+    padding: 25px 50px;
+    text-transform: capitalize;
+    text-indent: 20px;
+}
+div.new-class {
+    height: 100px;
+    max-width: 500px;
+    width: 100%;
+    background-color: powderblue;
+}
+body {
+    color: red;
+    font-family: "Roboto",sans-serif;
+}
+.button:link {
+    color: green;
+    text-decoration: blink;
+    background: black;
+}
+.button:hover {
+    background: red;
+}
+.button:visited {
+    background: blue;
+}
+.button:active{
+    background: yellow;
+}
